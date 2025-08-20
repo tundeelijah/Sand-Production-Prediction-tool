@@ -1,0 +1,11 @@
+body {
+    background-image: url('C:\Users\Elijah Babatunde\Documents\testpy\Streamlit debugger\images\background page_one.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+h1 {
+    font-size: 2.5em;
+    color: #007bff;
+}
